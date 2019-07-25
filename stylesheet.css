@@ -1,0 +1,16 @@
+
+thead {
+  background-color: lightcoral;
+}
+
+table.second
+td {
+  border: 1px solid black;
+  align-content: center;
+  padding: 10px;
+
+}
+
+td.onetable {
+  padding: 70px;
+}
